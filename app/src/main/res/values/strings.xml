@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-simple-test</string>
+    <string name="label_hello_world">Hello World!</string>
+    <string name="label_test_when_press_test1_button">This is Test1 button</string>
+</resources>
